@@ -1,0 +1,2 @@
+# My licence FILE
+lorem
